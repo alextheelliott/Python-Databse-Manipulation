@@ -1,0 +1,13 @@
+ownerID,INT,NOT NULL
+ownerAgeRange,VARCHAR(5)
+ownerGender,VARCHAR(1)
+cityDistrict,INT,DEFAULT 1
+cityQuarter,INT,DEFAULT 1
+breed1,VARCHAR(30),NOT NULL
+breed1Mix,VARCHAR(30)
+breed2,VARCHAR(30)
+breed2Mix,VARCHAR(30)
+rassentyp,VARCHAR(2)
+yearOfBirth,INT
+dogsGender,VARCHAR(1)
+dogsColour,VARCHAR(30)
